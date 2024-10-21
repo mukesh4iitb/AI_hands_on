@@ -1,6 +1,6 @@
 # Machine Learning Hands-On Tutorials
 
-This repository contains links to hands-on tutorials for popular machine learning libraries. These resources are great for both beginners and experienced developers looking to deepen their understanding of machine learning frameworks like `scikit-learn`, `PyTorch`, `TensorFlow`, `Keras`, `JAX`, and `Flax`.
+This repository contains links to hands-on tutorials for popular machine learning libraries at www.freecodecamp.org Youtube channel. These resources are great for both beginners developers looking to deepen their understanding of machine learning frameworks like `scikit-learn`, `PyTorch`, `TensorFlow`, `Keras`, `JAX`, and `Flax`. You can click on blue link to open its youtube video for that library. (Note: I created it for my hands on practice).
 
 ## Tutorials
 
